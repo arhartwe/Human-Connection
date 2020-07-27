@@ -55,5 +55,6 @@
   },
   "resolutions": {
     "set-value": "^2.0.1"
-  }
+  },
+  "dependencies": {}
 }
